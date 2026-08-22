@@ -9,6 +9,7 @@ const {
   deleteCar,
 } = require("./carHandlers"); // 'carHandlers.js' contains the route handlers
 
+
 // Middleware to parse JSON
 app.use(express.json());
 

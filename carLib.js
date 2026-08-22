@@ -7,6 +7,7 @@
 }
 */
 
+
 let carArray = [];
 
 let nextId = 1;
